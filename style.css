@@ -596,12 +596,10 @@ section#contact_section {
 
 .project-github{
     background: var(--primary-blue);
-    
     color: #eee;
 }
 .project-website{
     background: var(--main-orange);
-    
     color: rgb(19, 17, 17);
 }
 .see_more_link {
