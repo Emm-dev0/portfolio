@@ -225,9 +225,6 @@ main>section {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-
-
-
 }
 
 .hero_text_wrapper>h1 {
@@ -237,8 +234,6 @@ main>section {
     text-align: center;
     /* text-align:left; */
     font-size: 3rem;
-
-
 }
 
 .hero_text_wrapper>p {
